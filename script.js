@@ -1,4 +1,4 @@
-const element = document.getElementById("myBtn");
-element.addEventListener("click", function () {
-  console.log("myBtn clicked");
+let et = document.getElementById("myBtn");
+et.addEventListener("click", function () {
+  console.log("clickado");
 });
