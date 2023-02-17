@@ -1,5 +1,4 @@
-let button = document.querySelector(".notificacao");
-
-button.addEventListener("click", function () {
-  console.log("Notificacao");
+const element = document.getElementById("myBtn");
+element.addEventListener("click", function () {
+  console.log("myBtn clicked");
 });
