@@ -1,4 +1,4 @@
-let button = document.querySelector("button");
+let button = document.querySelector(".button");
 
 button.addEventListener("click", function () {
   console.log("solicitando permissão...");
